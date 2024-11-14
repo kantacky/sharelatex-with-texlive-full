@@ -1,6 +1,6 @@
 # sharelatex with full TeX Live
 
-compatible linux/amd64, linux/arm64 compatible image
+linux/amd64, linux/arm64 compatible image
 
 - https://hub.docker.com/r/sharelatex/sharelatex/tags
   - https://github.com/overleaf/overleaf/blob/main/server-ce/Dockerfile
